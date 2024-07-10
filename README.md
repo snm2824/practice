@@ -1,2 +1,2 @@
-I am editinf the README file. Adding some more details about the project description.# practice
+I am editing the README file. Adding some more details about the project description.# practice
 Practice repo
